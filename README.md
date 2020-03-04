@@ -3,8 +3,7 @@
 
 ## 1. How to start
 
-$ git clone 
-$ cd spring-rest-demo
+$ git clone https://github.com/rdangi/spring-rest-demo.git
 $ mvn spring-boot:run
 
 ## Docker build and run
