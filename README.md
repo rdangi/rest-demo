@@ -16,7 +16,7 @@ $ docker build . -t spring-rest-demo
 $ docker run --publish=8080:8080 spring-rest-demo
 
 
-##Access REST API
+## Access REST API
 
 http://localhost:8080/products
 
@@ -25,5 +25,5 @@ admin/password
 
 It can also be accessed through any REST client, easiest is Postman can be downloaded from here: https://www.postman.com/downloads/
 
-##Swagger
+## Swagger
 http://localhost:8080/swagger-ui.html#/
